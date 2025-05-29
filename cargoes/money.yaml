@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: MY
 available: false
-classes: 32
-colour: 1
+classes: 8
+colour: 85
 id: 20
-label: NEWC
-longName: 'new cargo #20'
-name: 'New Cargo #20'
+label: MONY
+longName: money
+name: Money
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-20.png
+  filename: cargoes/money.png
   left: 0
   top: 0
-unitName: Items
+unitName: Bags
 weight: 16
