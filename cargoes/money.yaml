@@ -6,7 +6,7 @@ id: 20
 label: MONY
 longName: money
 name: Money
-penaltyLength: 255
+penaltyLength: 36
 penaltyLowerBound: 0
 price: 4112
 sprite:
@@ -14,4 +14,4 @@ sprite:
   left: 0
   top: 0
 unitName: Bags
-weight: 16
+weight: 6
