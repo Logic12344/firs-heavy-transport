@@ -8,10 +8,10 @@ longName: money
 name: Money
 penaltyLength: 36
 penaltyLowerBound: 0
-price: 4112
+price: 12336
 sprite:
   filename: cargoes/money.png
   left: 0
   top: 0
 unitName: Bags
-weight: 6
+weight: 32
